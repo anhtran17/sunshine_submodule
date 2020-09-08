@@ -1,3 +1,6 @@
 [submodule "demotest"]
 	path = demotest
 	url = https://github.com/anhtran17/demotest.git
+[submodule "susu"]
+	path = susu
+	url = https://github.com/anhtran17/susu.git
